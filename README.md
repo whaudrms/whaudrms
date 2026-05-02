@@ -1,14 +1,7 @@
-# 👋 Who am I?
-
-Undergraduate Researcher in Robotics  
-**Model Predictive Control · Reinforcement Learning · Autonomous Systems**
-
----
-
 ## 🎓 Education
 
 - **Inha University**, Incheon, Republic of Korea  
-  B.S. in Mechanical Engineering (Expected)
+  B.S. in Mechanical Engineering
 
 ---
 
@@ -28,15 +21,12 @@ Undergraduate Researcher in Robotics
   
 ---
 
-## 🏆 Competitions
+## 🏆 Awards
 
 ### 🚗 Autonomous Driving
 
-- **2025 F1TENTH Korea Championship**
 - **2025 Bosch Future Mobility Challenge (BFMC)** – 8th Place [🔗]( https://boschfuturemobility.com/)
 - **2024 AWS DeepRacer Championship League** – 🥇 1st Place
-- **2024 Mando Autonomous Driving Competition** 
-- **2023 Kookmin Univ. Autonomous Driving Simulation Competition**
 
 ---
 

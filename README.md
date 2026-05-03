@@ -5,22 +5,6 @@
 
 ---
 
-<--## 🧑‍🔬 Research Interests
-
-- Model Predictive Control (MPC)
-- Reinforcement Learning for Robotics
-- Autonomous Systems -->
-
----
-
-<--## 📄 Publications
-
-- **A Hierarchical Perceptive MPC Framework with an Uncertainty-Aware Trajectory Refinement for Quadruped Locomotion**  
-  *Myeong-geun Cho*, et al.  
-  Submitted to **ICROS 2026**-->
-  
----
-
 ## 🏆 Awards
 
 ### 🚗 Autonomous Driving

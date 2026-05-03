@@ -5,7 +5,7 @@
 
 ---
 
-## 🏆 Awards
+## 🏆 Competitions
 
 ### 🚗 Autonomous Driving
 

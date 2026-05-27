@@ -11,7 +11,7 @@
 Python · C++ · MATLAB
 
 ### Tools
- ROS · Linux · Git · MuJoCo  
+ ROS · Linux · Git
 
 ---
 
